@@ -6,5 +6,5 @@ En complemento para lo financiero he utilizado Bloomberg.
 Estoy trabajando en el área de Precios de Transferencia en una consultora, principalmente analizamos que las transacciones se encuentren a valor de mercado. 
 
 # Idiomas 
-Inglés avanzado
-Japonés básico
+- Inglés avanzado
+- Japonés básico
